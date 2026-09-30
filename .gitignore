@@ -1,0 +1,17 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+.DS_Store
+Thumbs.db
+
+# Machine-specific / local data
+data/raw/
+data/private/
+
+# Intermediate outputs
+output/
+outputs/
+cache/
+*.rds
